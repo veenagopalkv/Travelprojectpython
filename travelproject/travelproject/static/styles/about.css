@@ -865,6 +865,7 @@ section
 {
 	width: 100%;
 	background: #FFFFFF;
+	min-height:500px;
 }
 .why_image
 {
